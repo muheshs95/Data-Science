@@ -1,2 +1,1 @@
-# Data-Science
-Data Science Training
+Automate identification and recognition of handwritten text from an image
